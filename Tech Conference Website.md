@@ -14,4 +14,4 @@ Welcome to the Tech Conference Website project! This web application fetches and
 
 ![Tech Conference Website Preview]
 
-(https://github.com/VivekHalder/gdsc_dev_rec/tree/main/PREVIEW OF THE WEBPAGE)
+(https://github.com/VivekHalder/gdsc_dev_rec/blob/main/PREVIEW%20OF%20THE%20WEBPAGE.png)
