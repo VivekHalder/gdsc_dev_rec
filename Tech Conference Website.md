@@ -14,4 +14,4 @@ Welcome to the Tech Conference Website project! This web application fetches and
 
 ![Tech Conference Website Preview]
 
-![](Aspose.Words.3bd3622b-77b2-47e6-a4d8-d9f560b96e2a.001.png)
+(https://github.com/VivekHalder/gdsc_dev_rec/tree/main/PREVIEW OF THE WEBPAGE)
